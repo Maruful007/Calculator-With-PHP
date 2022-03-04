@@ -1,7 +1,5 @@
 # Simple Calculator
 
-A Calculator
-
 ## Description
 
 This is a Simple Calculator Which is Made By PHP in Backend and Bootstrap 5 in Frontend. You Can Add, Subtract, Multiply, Divide With This Calculator
@@ -33,7 +31,7 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.1
+* 1.0
     * Initial Release
 
 ## License
